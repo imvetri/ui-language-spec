@@ -70,6 +70,9 @@ If you have suggestion to improve current proposal, please feel free to start cr
 - [ ] UI Editor.
     - [x] Share the wireframe.
         - ![alt wireframe of elements tab](https://github.com/imvetri/ui-language-spec/blob/master/assets/Element_tab.png)
+    - [x] Share state diagram.
+        - ![alt data flow between element, component, state](https://github.com/imvetri/ui-language-spec/blob/tasks/share_wireframe/assets/Event_Action_State_Element_Component_Cycle.png)
+    - [ ] Share diagram to depict concept of element,event,component,action,state.
     - [ ] AC
         - [ ] It should have a elements tab.
         - [ ] It should have a components tab.
@@ -82,7 +85,8 @@ If you have suggestion to improve current proposal, please feel free to start cr
             - [ ] Component should have a Action section.
             - [ ] Component should have a state section.
         - [ ] Event section should contain list of events that this element is expected to dispatch.
-        - [ ] State section should help to create new element state. 
+        - [ ] State section should help to create new element/component state using knobs [See how storybooks have done](https://github.com/storybooks/storybook/tree/master/addons/knobs). 
+
 - [ ] Put the photo that you have here.
 - [ ] Build the UI Editor.
 - [ ] Find out list of elements and few commonly used components.
