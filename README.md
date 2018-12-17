@@ -68,7 +68,7 @@ If you have suggestion to improve current proposal, please feel free to start cr
     - [ ] Provide examples.
     - [ ] Provide a separate article/page for step by step
 - [ ] UI Editor.
-    - [ ] Share the wireframe.
+    - [x] Share the wireframe.
         - ![alt wireframe of elements tab](https://github.com/imvetri/ui-language-spec/blob/master/assets/Element_tab.png)
     - [ ] AC
         - [ ] It should have a elements tab.
